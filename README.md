@@ -1,13 +1,17 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+# Git farm 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/wps-ynx"
+  height="200em"
+/>
+</a>
+
+# PS Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wapas)](https://solved.ac/wapas/)
+![wapas profile](http://mazandi.herokuapp.com/api?handle=wapas&theme=cold)
+
+# 🚀Skills
+<div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
@@ -30,6 +34,4 @@
           <br/><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white">
           <img src="https://img.shields.io/badge/Zeplin-fdbd39?style=flat&logo=Zeplin&logoColor=white">
           </div>
-    </div>    
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wapas)](https://solved.ac/wapas)
+    </div>
